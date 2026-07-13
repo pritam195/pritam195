@@ -128,18 +128,6 @@ My strongest projects are pinned below for quick recruiter review.
 
 ---
 
-## Experience
-
-### Software Development Engineer Intern
-
-**Monarch Techno Engineering Solutions Pvt. Ltd.**
-
-- Built a responsive chatbot widget using **React.js** and **Tailwind CSS**.
-- Implemented real-time message rendering, input validation, loading states, and a mobile-friendly UI.
-- Integrated the chatbot frontend with **Node.js/Express REST APIs** for query dispatch, FAQ-based response matching, fallback handling, and API error-state management.
-
----
-
 ## Connect With Me
 
 <p>
