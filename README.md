@@ -40,7 +40,7 @@
     <img src="https://img.shields.io/badge/LeetCode-500%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="https://www.codechef.com/users/chavan_pritam">
-    <img src="https://img.shields.io/badge/CodeChef-3%20Star%20%7C%201601-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+    <img src="https://img.shields.io/badge/CodeChef-3%20Star%20%7C%201624-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
 </p>
 
